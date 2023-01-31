@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HernandezMejiaZahid/Examen-Apps/static/css/main.44f8b8b5.css",
+    "main.js": "/HernandezMejiaZahid/Examen-Apps/static/js/main.aaf00653.js",
+    "static/js/787.a1bae643.chunk.js": "/HernandezMejiaZahid/Examen-Apps/static/js/787.a1bae643.chunk.js",
+    "index.html": "/HernandezMejiaZahid/Examen-Apps/index.html",
+    "main.44f8b8b5.css.map": "/HernandezMejiaZahid/Examen-Apps/static/css/main.44f8b8b5.css.map",
+    "main.aaf00653.js.map": "/HernandezMejiaZahid/Examen-Apps/static/js/main.aaf00653.js.map",
+    "787.a1bae643.chunk.js.map": "/HernandezMejiaZahid/Examen-Apps/static/js/787.a1bae643.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.aaf00653.js"
+  ]
+}
